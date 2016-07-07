@@ -1,1 +1,1 @@
-Git/Githum tutorial from UO Bioinformatics program
+Git/Github tutorial from UO Bioinformatics program
